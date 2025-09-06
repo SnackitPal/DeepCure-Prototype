@@ -60,7 +60,7 @@ st.markdown("This interface simulates the predictive power of the DeepCure AI mo
             "Use the buttons in the sidebar to load a case study, or enter your own data.")
 
 # --- Sidebar ---
-st.sidebar.image("C:/Users/Sheetal/Downloads/DeepCure_Prototype/Logo of DeepCure.png", width=150)
+st.sidebar.image("https://github.com/SnackitPal/DeepCure-Prototype/blob/main/Logo%20of%20DeepCure.png?raw=true", width=150)
 st.sidebar.title("About DeepCure")
 st.sidebar.info(
     "The DeepCure platform aims to accelerate the discovery of novel Antibody-Drug Conjugates (ADCs) "
